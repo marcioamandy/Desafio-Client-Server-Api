@@ -1,0 +1,13 @@
+# Binários
+/bin/
+server/server
+client/client
+
+# Artefatos gerados em tempo de execução
+cotacoes.db
+cotacoes.db-shm
+cotacoes.db-wal
+cotacao.txt
+
+# SO
+.DS_Store
